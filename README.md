@@ -42,7 +42,7 @@ Emergency rooms run under constant pressure. Hospital management needs a quick v
 ## 🛠️ Tools & Technologies
 
 - **Data cleaning & modelling:** _(e.g., Excel / Power Query / SQL / Python – update with what you used)_
-- **Visualisation:** _(e.g., Excel PivotCharts & Slicers / Power BI – update)_
+- **Visualisation:** _(e.g., Excel PivotCharts & Slicers / Excel)_
 - **Calculations:** _(e.g., DAX measures / Excel formulas – update)_
 
 ## 🧮 Metrics Defined
